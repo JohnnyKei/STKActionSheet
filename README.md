@@ -1,7 +1,8 @@
 # STKActionSheet
 
-Modal Action Sheet.
-![image](./image/image.gif)
+<img src="./image/image.gif" width="375">
+
+
 
 # Usage
 Use like UIAlertController.
